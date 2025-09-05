@@ -75,17 +75,17 @@ database/
 
 ![Book Management](img_2.png)
 
-**Member Management** 
+**Book Management** 
 
-![Member Management](img_3.png)
+![Book Management](img_3.png)
 
 **Loan Operations**
 
 ![Loan Operations](img_4.png)
 
-**Reports and Statistics**
+**Member Management**
 
-![Reports](img_5.png)
+![Member Management](img_5.png)
 
 
 ## License
