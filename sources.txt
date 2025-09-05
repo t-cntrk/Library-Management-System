@@ -1,0 +1,9 @@
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\dao\BookDAO.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\dao\LoanDAO.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\dao\UserDAO.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\model\Book.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\model\Loan.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\model\User.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\service\LibraryService.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\ui\Main.java
+C:\Users\TOLGA\OneDrive\Masaüstü\University\Java\LibraryManagementSystem\src\com\library\util\DatabaseConnection.java
