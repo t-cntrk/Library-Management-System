@@ -68,18 +68,23 @@ database/
 ## Screenshots
 
 **Main Menu Interface**
+
 ![Main Menu](img_1.png)
 
 **Book Management**
+
 ![Book Management](img_2.png)
 
 **Member Management** 
+
 ![Member Management](img_3.png)
 
 **Loan Operations**
+
 ![Loan Operations](img_4.png)
 
 **Reports and Statistics**
+
 ![Reports](img_5.png)
 
 
